@@ -59,6 +59,9 @@ Languages in question are:
 
 The right language will be chosen by our core developers.
 
+# Core Developers
+
+
 # Contribution Guidelines
 
 Contribution is welcome.
