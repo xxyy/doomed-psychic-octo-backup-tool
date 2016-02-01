@@ -61,6 +61,7 @@ The right language will be chosen by our core developers.
 
 # Core Developers
 
+- benaryorg
 
 # Contribution Guidelines
 
