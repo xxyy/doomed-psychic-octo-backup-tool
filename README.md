@@ -3,7 +3,8 @@
 **DPOBT** (*doomed-psychic-octo-backup-tool*) is a tool that creates a backup
 from all your important data.
 
-It creates one simple and easily compressible file containing your data.
+It creates one simple and easily compressible file containing the data you need
+most.
 
 # Official Abbreviations
 
