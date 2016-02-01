@@ -20,8 +20,8 @@ Copy this to your terminal and the program will be installed:
 git clone git://github.com/benaryorg/doomed-psychic-octo-backup-tool.git
 su
 mkdir -p /usr/local/bin/
-cp doomed-psychic-octo-backup-tool/dpobackupt.sh /usr/local/bin/
-chmod +x /usr/local/bin/dpobackupt.sh
+cp doomed-psychic-octo-backup-tool/dpobackupt.sh /usr/local/bin/dpobackupt
+chmod +x /usr/local/bin/dpobackupt
 ```
 
 **Warning: This currently works for updating too, this will change!**
