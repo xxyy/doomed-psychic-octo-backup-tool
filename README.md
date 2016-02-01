@@ -41,6 +41,23 @@ backing up to.
 
 **Warning: This will change in the future!**
 
+# Future of this Project
+
+This project is meant to replace all of your backups and therefore will be
+supported forever, though there is no guarantee for that.
+
+It is very likely that the programming language will change to something more
+"binary" due to the fact that the backups are mostly binary.
+
+Languages in question are:
+
+- C
+- Assembly
+- Rust
+- JavaScript
+
+The right language will be chosen by our core developers.
+
 # Contribution Guidelines
 
 Contribution is welcome.
