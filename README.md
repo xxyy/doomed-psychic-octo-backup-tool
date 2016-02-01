@@ -41,11 +41,17 @@ backing up to.
 
 **Warning: This will change in the future!**
 
-# Contribution
+# Contribution Guidelines
 
-Yes.
-Please.
+Contribution is welcome.
 Just a PR is enough.
+But please obey the following rules and principles.
+
+## Design Principles
+
+1. nobody ever tests the backup
+2. nobody ever looks at the backup
+3. best practice programming
 
 # License
 
